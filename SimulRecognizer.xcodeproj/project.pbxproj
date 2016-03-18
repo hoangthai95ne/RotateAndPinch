@@ -15,6 +15,7 @@
 		AB6CD8631C9C0B1F00913F28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB6CD8611C9C0B1F00913F28 /* LaunchScreen.storyboard */; };
 		AB6CD86E1C9C0B1F00913F28 /* SimulRecognizerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB6CD86D1C9C0B1F00913F28 /* SimulRecognizerTests.m */; };
 		AB6CD8791C9C0B1F00913F28 /* SimulRecognizerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AB6CD8781C9C0B1F00913F28 /* SimulRecognizerUITests.m */; };
+		AB6CD8871C9C0B3F00913F28 /* ngoctrinh.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB6CD8861C9C0B3F00913F28 /* ngoctrinh.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AB6CD8741C9C0B1F00913F28 /* SimulRecognizerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimulRecognizerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB6CD8781C9C0B1F00913F28 /* SimulRecognizerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimulRecognizerUITests.m; sourceTree = "<group>"; };
 		AB6CD87A1C9C0B1F00913F28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB6CD8861C9C0B3F00913F28 /* ngoctrinh.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ngoctrinh.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				AB6CD8591C9C0B1F00913F28 /* ViewController.h */,
 				AB6CD85A1C9C0B1F00913F28 /* ViewController.m */,
 				AB6CD85C1C9C0B1F00913F28 /* Main.storyboard */,
+				AB6CD8861C9C0B3F00913F28 /* ngoctrinh.jpg */,
 				AB6CD85F1C9C0B1F00913F28 /* Assets.xcassets */,
 				AB6CD8611C9C0B1F00913F28 /* LaunchScreen.storyboard */,
 				AB6CD8641C9C0B1F00913F28 /* Info.plist */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB6CD8871C9C0B3F00913F28 /* ngoctrinh.jpg in Resources */,
 				AB6CD8631C9C0B1F00913F28 /* LaunchScreen.storyboard in Resources */,
 				AB6CD8601C9C0B1F00913F28 /* Assets.xcassets in Resources */,
 				AB6CD85E1C9C0B1F00913F28 /* Main.storyboard in Resources */,
